@@ -1,0 +1,13 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.MongoCrash.cpp.obj": [
+			"MongoCrash.cpp.obj",
+			"MyActor.cpp.obj"
+		],
+		"Module.MongoCrash.gen.cpp.obj": [
+			"MongoCrash.init.gen.cpp.obj",
+			"MyActor.gen.cpp.obj"
+		]
+	}
+}

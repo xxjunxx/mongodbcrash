@@ -1,0 +1,6 @@
+C:\Users\Xiaojun Lan\Documents\Unreal Projects\MyProject2\Plugins\MongoCrash\Intermediate\Build\Win64\UE4Editor\Development\MongoCrash\Definitions.MongoCrash.h
+C:\Users\Xiaojun Lan\Documents\Unreal Projects\MyProject2\Plugins\MongoCrash\Source\MongoCrash\Private\MongoCrash.cpp
+C:\Users\Xiaojun Lan\Documents\Unreal Projects\MyProject2\Plugins\MongoCrash\Source\MongoCrash\Public\MongoCrash.h
+C:\Users\Xiaojun Lan\Documents\Unreal Projects\MyProject2\Plugins\MongoCrash\Source\MongoCrash\Private\MyActor.cpp
+C:\Users\Xiaojun Lan\Documents\Unreal Projects\MyProject2\Plugins\MongoCrash\Source\MongoCrash\Public\MyActor.h
+C:\Users\Xiaojun Lan\Documents\Unreal Projects\MyProject2\Plugins\MongoCrash\Intermediate\Build\Win64\UE4Editor\Inc\MongoCrash\MyActor.generated.h

@@ -1,0 +1,7 @@
+C:\Users\Xiaojun Lan\Documents\Unreal Projects\MyProject2\Plugins\MongoCrash\Intermediate\Build\Win64\UE4Editor\Development\MongoCrash\Definitions.MongoCrash.h
+C:\Users\Xiaojun Lan\Documents\Unreal Projects\MyProject2\Plugins\MongoCrash\Intermediate\Build\Win64\UE4Editor\Inc\MongoCrash\MongoCrash.init.gen.cpp
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\Xiaojun Lan\Documents\Unreal Projects\MyProject2\Plugins\MongoCrash\Intermediate\Build\Win64\UE4Editor\Inc\MongoCrash\MyActor.gen.cpp
+C:\Users\Xiaojun Lan\Documents\Unreal Projects\MyProject2\Plugins\MongoCrash\Source\MongoCrash/Public/MyActor.h
+c:\users\xiaojun lan\documents\unreal projects\myproject2\plugins\mongocrash\intermediate\build\win64\ue4editor\inc\mongocrash\MyActor.generated.h

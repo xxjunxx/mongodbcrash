@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-MongoCrash-0001.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Xiaojun Lan\Documents\Unreal Projects\MyProject2\Intermediate\Build\Win64\MyProject2Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\Xiaojun Lan\Documents\Unreal Projects\MyProject2\Plugins\MongoCrash\Intermediate\Build\Win64\UE4Editor\Development\MongoCrash\Module.MongoCrash.cpp.obj"
+"C:\Users\Xiaojun Lan\Documents\Unreal Projects\MyProject2\Plugins\MongoCrash\Intermediate\Build\Win64\UE4Editor\Development\MongoCrash\Module.MongoCrash.gen.cpp.obj"
+"C:\Users\Xiaojun Lan\Documents\Unreal Projects\MyProject2\Plugins\MongoCrash\Intermediate\Build\Win64\UE4Editor\Development\MongoCrash\Default.rc2.res"
+/OUT:"C:\Users\Xiaojun Lan\Documents\Unreal Projects\MyProject2\Plugins\MongoCrash\Intermediate\Build\Win64\UE4Editor\Development\MongoCrash\UE4Editor-MongoCrash-0001.lib"
+/INCLUDE:IMPLEMENT_MODULE_MongoCrash
