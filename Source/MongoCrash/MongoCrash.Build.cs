@@ -40,6 +40,8 @@ public class MongoCrash : ModuleRules
 				"SlateCore",
 				// ... add private dependencies that you statically link with here ...	
                 "MongoC",
+                "Json",
+                "JsonUtilities"
             }
 			);
 
@@ -57,7 +59,7 @@ public class MongoCrash : ModuleRules
         }
         else
         {
-            PublicDefinitions.Add("MACTOR_WITH_LIBMONGO_C_C=1");
+            PublicDefinitions.Add("MACTOR_WITH_LIBMONGO_C=1");
 
             // Needed to ignore various warnings from libmongo
             bEnableUndefinedIdentifierWarnings = false;

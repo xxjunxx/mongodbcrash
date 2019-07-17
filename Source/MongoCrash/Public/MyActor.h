@@ -29,8 +29,9 @@ public:
 	// Sets default values for this actor's properties
 	AMyActor();
 
-	void Init();
+	bool Connect();
 
+	void Query();
 
 protected:
 	// Called when the game starts or when spawned
@@ -40,8 +41,6 @@ public:
 	// Called every frame
 	virtual void Tick(float DeltaTime) override;
 
-private:
-	void Connect();
 
 private:
 #if MACTOR_WITH_LIBMONGO_C
@@ -53,16 +52,9 @@ private:
 
 	// Database to access
 	mongoc_database_t* database;
-
+	
 	// Database collection
 	mongoc_collection_t* collection;
 
-	// Gridfs handle to insert large binary data to the db
-	mongoc_gridfs_t *gridfs;
-	//mongoc_gridfs_bucket_t *bucket; // available starting 1.14
-
-	// _id of the object (world state) where to insert the images
-	char ws_oid_str[25];
-	bson_oid_t ws_oid2; // + add a flag in the else // Update existing entry branch? or just make sure the oid is correct
 #endif // MACTOR_WITH_LIBMONGO_C
 };
